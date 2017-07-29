@@ -1,0 +1,24 @@
+{
+  "name": "puredev",
+  "version": "1.0.0",
+  "description": "node framework in functional programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuong2v/puredev.git"
+  },
+  "keywords": [
+    "node",
+    "functional",
+    "pure"
+  ],
+  "author": "chuong2v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuong2v/puredev/issues"
+  },
+  "homepage": "https://github.com/chuong2v/puredev#readme"
+}
